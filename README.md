@@ -4,6 +4,9 @@ The encoder recives german corpus, while the decoder recives the hidden and cell
 
 # Requirements
 torchtext==0.8.1
+
 spacy
+
 torch
+
 tqdm
